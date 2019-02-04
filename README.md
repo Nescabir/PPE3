@@ -8,7 +8,7 @@ Nous devions réaliser, en équipe de 3 développeurs, développer chacun une ap
 J'ai du créer l'application "Technicien" permettant de gérer le planning et de réserver des parties.
 
 # Ce que j'ai appris
-- [x] Récupération et envoi de données via une API REST
-- [x] WPF (*Windows Presentation Foundation*)
-- [x] Authentification avec FOSUser
-- [x] Exportation vers installer
+* Récupération et envoi de données via une API REST
+* WPF (*Windows Presentation Foundation*)
+* Authentification avec FOSUser
+* Exportation vers installer

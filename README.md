@@ -1,5 +1,5 @@
 # Avertissement
-**Ce projet est un de mes premiers projets réalisés. Le site n'est absolument pas responsive, etc...**
+**Ce projet est un de mes premiers projets réalisés.**
 
 ## Projet Personnalisé Encadré 3
 Projet personnalisé encadré 3 ou PPE3 est un projet que j'ai dû réaliser durant ma formation BTS Services Informatiques aux Organisations.
